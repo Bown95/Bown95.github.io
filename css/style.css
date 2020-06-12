@@ -42,6 +42,7 @@ html {
 }
 .container {
   width: 700px;
+  text-alain: center;
 }
 @media (max-width: 767px) {
   .container {
